@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Diving!
 
-<img src="./images/java-brands.svg"/>
+#### 💻 Languages and Tools
+<img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/java-brands.svg" height="40"/> 
 
 <!--
 **wjboogerd/wjboogerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
