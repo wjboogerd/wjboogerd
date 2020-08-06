@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Diving!
 
+<img src="./images/java-brands.svg"/>
+
 <!--
 **wjboogerd/wjboogerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
