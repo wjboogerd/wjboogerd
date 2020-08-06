@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Willem-Jan Boogerd 👋
+
+- 🔭 I’m currently working as a Freelance Fullstack Lead Developer / Tech Lead.
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about Diving!
 
 <!--
 **wjboogerd/wjboogerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
