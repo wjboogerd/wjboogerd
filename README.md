@@ -5,7 +5,7 @@
 - 💬 Ask me about Diving!
 
 #### 💻 Languages and Tools
-<img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/java-brands.svg" height="40"/> 
+<img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/java-brands.svg" alt="Java" title="Java" height="40"/> 
 
 <!--
 **wjboogerd/wjboogerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
