@@ -1,8 +1,9 @@
 ### Hi there, I'm Willem-Jan Boogerd 👋
 
-- 🔭 I’m currently working as a Freelance Fullstack Lead Developer / Tech Lead.
+- 🔭 I’m currently working as a Freelance Fullstack Tech Lead Developer.
 - 🌱 I’m currently learning Flutter.
-- 💬 Ask me about Diving!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wjboogerd/).
+- 💬 Ask me about 🤿 diving!
 
 #### 📝 Languages
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/android.svg" alt="Android" title="Android" height="40"/></a>
@@ -19,13 +20,8 @@
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/tools_webstorm.svg" alt="JetBrains WebStorm" title="JetBrains WebStorm" height="40"/></a> 
 
 <!--
-**wjboogerd/wjboogerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
