@@ -22,7 +22,7 @@
 
 #### 🏗️ Frameworks
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_angular.svg" alt="Angular" title="Angular" height="40"/></a> 
-<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_evelenty.svg" alt="Eleventy" title="Eleventy" height="40"/></a> 
+<a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_eleventy.svg" alt="Eleventy" title="Eleventy" height="40"/></a> 
 <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_flutter.svg" alt="Flutter" title="Flutter" height="40"/></a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_spring.svg" alt="Spring Boot" title="Spring Boot" height="40"/></a> 
 
