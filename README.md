@@ -1,7 +1,7 @@
 ### Hi there, I'm Willem-Jan Boogerd 👋
 
-- 🔭 I’m currently working as a Freelance Fullstack Tech Lead Developer.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working as a Freelance Full-stack Tech Lead Developer.
+- 🌱 I’m currently learning Kotlin Multi-Platform (KMP).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wjboogerd/).
 - 💬 Ask me about 🤿 diving!
 
@@ -24,6 +24,7 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_angular.svg" alt="Angular" title="Angular" height="40"/></a> 
 <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_eleventy.svg" alt="Eleventy" title="Eleventy" height="40"/></a> 
 <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_flutter.svg" alt="Flutter" title="Flutter" height="40"/></a> 
+<a href="https://www.gohugo.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_hugo.svg" alt="Hugo" title="Hugo" height="40"/></a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wjboogerd/wjboogerd/master/images/framework_spring.svg" alt="Spring Boot" title="Spring Boot" height="40"/></a> 
 
 <!--
